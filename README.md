@@ -3,11 +3,18 @@
 
 
 Project AIM:
-**\nHow much traffic in which road?**
-**\nWhich bus is crowded?**
-**\nLive public place crowd**
 
-**\nLimitations: speed accuracy.**
+
+**How much traffic in which road?**
+
+
+**Which bus is crowded?**
+
+
+**Live public place crowd**
+
+
+**Limitations: speed accuracy.**
 
 Methods Used
 
