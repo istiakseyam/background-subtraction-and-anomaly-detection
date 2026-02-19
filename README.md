@@ -1,11 +1,13 @@
 # background-subtraction-and-anomaly-detection
-**Run version 2 code to have the rules over moving object**
-Project AIM:
-**How much traffic in which road?**
-**Which bus is crowded?**
-**Live public place crowd**
+**Run version 2 code to have the rules over moving objects**
 
-**Limitations: speed accuracy.**
+
+Project AIM:
+**\nHow much traffic in which road?**
+**\nWhich bus is crowded?**
+**\nLive public place crowd**
+
+**\nLimitations: speed accuracy.**
 
 Methods Used
 
